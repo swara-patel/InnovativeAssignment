@@ -1,0 +1,9 @@
+Instructions:
+1. Install pygame using "pip install pygame"
+2. Make sure that every file is uploaded in jupyter notebook (including pictures)
+   i.e. 1.Sentences.txt
+        2.background.jpg
+        3.type-speed-open.jpg
+        4.reset.jpg
+3. A window will pop-up as you run the code.
+4. Enter the line in text box and press enter, it will show time taken to complete the sentence, accuracy and words/min
